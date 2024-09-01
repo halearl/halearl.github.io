@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://halearl.github.io/sitemap.html.gz
+Sitemap: https://halearl.github.io/app/sitemap.html.gz
+Sitemap: https://halearl.github.io/assets/sitemap.html.gz
+Sitemap: https://halearl.github.io/css/sitemap.html.gz
+Sitemap: https://halearl.github.io/includes/sitemap.html.gz
+Sitemap: https://halearl.github.io/item/sitemap.html.gz
+Sitemap: https://halearl.github.io/src/sitemap.html.gz
